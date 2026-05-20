@@ -155,10 +155,13 @@ Snooze / Stop
 
 
 ## Reminder Popup
+<img width="234" height="183" alt="image" src="https://github.com/user-attachments/assets/0a2ccbdd-4d05-4346-83e0-9904c5e363cb" />
+<img width="435" height="505" alt="image" src="https://github.com/user-attachments/assets/c841cb88-086f-4847-ae18-998d7a3ba8fa" />
 
 
 ## Scrollable Reminder List
 
+<img width="593" height="655" alt="image" src="https://github.com/user-attachments/assets/0b46c572-feb0-4fe1-9edc-4fd8bb4396fb" />
 
 
 ---

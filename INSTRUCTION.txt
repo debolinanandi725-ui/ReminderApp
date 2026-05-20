@@ -1,0 +1,57 @@
+SMART REMINDER PRO – INSTRUCTIONS
+
+----------------------------------
+
+HOW TO RUN THE APPLICATION:
+
+1. Download the file: SmartReminder.exe
+
+2. Go to your Downloads folder (or where the file is saved)
+
+3. Double click on:
+   SmartReminder.exe
+
+----------------------------------
+
+IF WINDOWS SHOWS WARNING:
+
+You may see:
+"Windows protected your PC"
+
+Follow these steps:
+
+1. Click "More info"
+2. Click "Run anyway"
+
+(This is normal for student projects)
+
+----------------------------------
+
+IF APP DOES NOT OPEN:
+
+Try:
+- Right click on SmartReminder.exe
+- Click "Run as administrator"
+
+----------------------------------
+
+FEATURES:
+
+- Add multiple reminders
+- Popup alert system
+- Snooze option
+- Beep / Music alarm
+- Link support (YouTube / Google Meet)
+
+----------------------------------
+
+NOTE:
+
+- No installation required
+- Just double click and use
+- Internet not required
+
+----------------------------------
+
+Created By:
+Debolina Nandi
